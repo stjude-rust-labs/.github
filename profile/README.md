@@ -13,8 +13,8 @@ medical care, or treatment of any patient, or for decision-making about any
 person (including assignment to a study or specific study arm or group), or to
 render medical advice or professional services. St. Jude Rust Labs’ crates and
 command line applications have not received approval or clearance by the U.S.
-Food and Drug Agency or otherwise. St. Jude Rust Labs’ crates and command line
-applications are intended only to assist in research but not in decision-making
-about patients or research participants. The authors of the Rust Labs’ crates
-and command lines applications have no responsibility for any decisions made in
-the use of the crates and command line applications.
+Food and Drug Administration (FDA) or otherwise. St. Jude Rust Labs’ crates and 
+command line applications are intended only to assist in research but not in 
+decision-making about patients or research participants. The authors of the 
+Rust Labs’ crates and command lines applications have no responsibility for any
+decisions made in the use of the crates and command line applications.
